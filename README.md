@@ -13,7 +13,7 @@ This repository contains Python scripts for automating the process of renaming i
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/overlay-video-creation.git
+   git clone https://github.com/lkhadirn/overlay-video-creation.git
    cd overlay-video-creation
 
 2. **Install the Required Python Packages:**
